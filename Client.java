@@ -5,7 +5,7 @@ import java.io.*;
 
 public class Client {
     public static void main(String[] args) {
-        final String SERVER_ADDRESS = "192.168.1.4";
+        final String SERVER_ADDRESS = "localhost";
         final int SERVER_PORT = 4000;
         final String IMAGE_PATH = "image.jpg";
 
