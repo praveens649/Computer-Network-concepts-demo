@@ -1,1 +1,1 @@
-Learn Compluter Networks with joy 
+Learn Computer Networks with joy 
